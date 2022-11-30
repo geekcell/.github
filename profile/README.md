@@ -1,4 +1,4 @@
-<h1 align="center">Hello from your friends at <a href="https://wwww.geekcell.io">Geek Cell</a> 👋</h1>
+<h1 align="center">Hello from your friends at <a href="https://www.geekcell.io">Geek Cell</a> 👋</h1>
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/geekcell/.github/main/geekcell-github-banner.png" alt="Geek Cell Logo">
