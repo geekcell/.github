@@ -20,7 +20,7 @@
 
 ### About Us
 
-Geek Cell is a specialized AWS Cloud & Platform Engineering consultancy founded by **Christian Kappen** &mdash; a Senior Cloud Architect with **20+ years** of engineering experience and deep expertise in building production-grade AWS infrastructure from the ground up.
+Geek Cell is a specialized AWS Cloud & Platform Engineering consultancy founded by **Christian Kappen** &mdash; a Senior Cloud Architect with **26+ years** of engineering experience and deep expertise in building production-grade AWS infrastructure from the ground up.
 
 We help startups, scale-ups, and enterprises design, build, and operate **secure, highly available AWS environments**. Our work spans multi-account architectures, Kubernetes platforms, Infrastructure as Code, and end-to-end cloud migrations &mdash; always with a focus on security, compliance, and operational excellence.
 
@@ -36,13 +36,6 @@ We help startups, scale-ups, and enterprises design, build, and operate **secure
 ### Industries We've Worked In
 
 `Banking & Finance` `Healthcare` `HR Tech` `E-Commerce` `Climate Tech` `Logistics` `Social Networking`
-
-### Featured Open Source
-
-| Repository | Description | Stars |
-|:-----------|:------------|:------|
-| [docker-compose-nodejs-examples](https://github.com/geekcell/docker-compose-nodejs-examples) | Real-world examples for getting started with Docker Compose and Node.js | 1000+ |
-| [terraform-aws-*](https://github.com/orgs/geekcell/repositories?q=terraform-aws) | 30+ reusable Terraform modules for AWS (Security Groups, ALB, ECS, S3, KMS, and more) | &mdash; |
 
 ### Tech Stack
 
