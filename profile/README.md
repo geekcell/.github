@@ -48,7 +48,7 @@ We help startups, scale-ups, and enterprises design, build, and operate **secure
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/repos/search/geekcell?query=is:public&style=for-the-badge&label=Public%20Repos&color=181717&logo=github" alt="Public Repos">
+  <img src="https://img.shields.io/badge/Public_Repos-49-181717?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos">
   <img src="https://img.shields.io/github/stars/geekcell?style=for-the-badge&label=Total%20Stars&color=181717&logo=github" alt="Total Stars">
 </p>
 
