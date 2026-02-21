@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.geekcell.io">Website</a> &middot;
-  <a href="https://www.linkedin.com/company/geekcell">LinkedIn</a> &middot;
-  <a href="https://www.linkedin.com/in/ckappen">Christian Kappen</a> &middot;
-  <a href="https://twitter.com/thegeekcell">Twitter</a>
+  <a href="https://www.geekcell.io"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/company/geekcell"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ckappen"><img src="https://img.shields.io/badge/Christian_Kappen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Christian Kappen"></a>
+  <a href="https://x.com/thegeekcell"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 ---
