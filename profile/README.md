@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/geekcell/.github/main/geekcell-github-banner.png" alt="Geek Cell Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://www.geekcell.io/images/profile/christian-kappen.jpg" alt="Christian Kappen" width="150" style="border-radius: 50%;">
+</p>
+
 <h1 align="center">Geek Cell GmbH</h1>
 
 <p align="center">
