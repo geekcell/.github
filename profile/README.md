@@ -35,13 +35,30 @@ We help startups, scale-ups, and enterprises design, build, and operate **secure
 
 ### Industries We've Worked In
 
-`Banking & Finance` `Healthcare` `HR Tech` `E-Commerce` `Climate Tech` `Logistics` `Social Networking`
+<p align="center">
+  <img src="https://img.shields.io/badge/Banking_&_Finance-2E86C1?style=for-the-badge" alt="Banking & Finance">
+  <img src="https://img.shields.io/badge/Healthcare-27AE60?style=for-the-badge" alt="Healthcare">
+  <img src="https://img.shields.io/badge/HR_Tech-8E44AD?style=for-the-badge" alt="HR Tech">
+  <img src="https://img.shields.io/badge/E--Commerce-E67E22?style=for-the-badge" alt="E-Commerce">
+  <img src="https://img.shields.io/badge/Climate_Tech-1ABC9C?style=for-the-badge" alt="Climate Tech">
+  <img src="https://img.shields.io/badge/Logistics-E74C3C?style=for-the-badge" alt="Logistics">
+  <img src="https://img.shields.io/badge/Social_Networking-3498DB?style=for-the-badge" alt="Social Networking">
+</p>
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/repos/search/geekcell?query=is:public&style=for-the-badge&label=Public%20Repos&color=181717&logo=github" alt="Public Repos">
+  <img src="https://img.shields.io/github/stars/geekcell?style=for-the-badge&label=Total%20Stars&color=181717&logo=github" alt="Total Stars">
+</p>
 
 ### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black" alt="OpenTofu">
+  <img src="https://img.shields.io/badge/Terragrunt-4E4E4E?style=for-the-badge&logo=terraform&logoColor=white" alt="Terragrunt">
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -55,6 +72,7 @@ We help startups, scale-ups, and enterprises design, build, and operate **secure
 ---
 
 <p align="center">
-  <strong>Let's build something great together.</strong><br>
-  <a href="mailto:christian@geekcell.io">christian@geekcell.io</a> &middot; <a href="https://www.geekcell.io">www.geekcell.io</a>
+  <strong>Let's build something great together.</strong><br><br>
+  <a href="mailto:christian@geekcell.io"><img src="https://img.shields.io/badge/christian@geekcell.io-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.geekcell.io"><img src="https://img.shields.io/badge/www.geekcell.io-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
