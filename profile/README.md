@@ -22,13 +22,13 @@
 
 ---
 
-### About Us
+### About Me
 
 Geek Cell is a specialized AWS Cloud & Platform Engineering consultancy founded by **Christian Kappen** &mdash; a Senior Cloud Architect with **26+ years** of engineering experience and deep expertise in building production-grade AWS infrastructure from the ground up.
 
-We help startups, scale-ups, and enterprises design, build, and operate **secure, highly available AWS environments**. Our work spans multi-account architectures, Kubernetes platforms, Infrastructure as Code, and end-to-end cloud migrations &mdash; always with a focus on security, compliance, and operational excellence.
+I help startups, scale-ups, and enterprises design, build, and operate **secure, highly available AWS environments**. My work spans multi-account architectures, Kubernetes platforms, Infrastructure as Code, and end-to-end cloud migrations &mdash; always with a focus on security, compliance, and operational excellence.
 
-### What We Do
+### What I Do
 
 - **AWS Cloud Architecture** &mdash; Multi-account strategies, Landing Zones, Well-Architected reviews, and production-grade infrastructure design
 - **Kubernetes & Container Platforms** &mdash; EKS and ECS clusters, Helm, ArgoCD, and GitOps-driven delivery
@@ -37,7 +37,7 @@ We help startups, scale-ups, and enterprises design, build, and operate **secure
 - **Security & Compliance** &mdash; IAM architecture, encryption (KMS), network segmentation, GDPR, ISO 27001, SOC 2, and BSI compliance
 - **CI/CD & DevOps** &mdash; GitHub Actions, GitLab CI, blue-green deployments, and automated pipelines
 
-### Industries We've Worked In
+### Industries I've Worked In
 
 <p align="center">
   <img src="https://img.shields.io/badge/Banking_&_Finance-2E86C1?style=for-the-badge" alt="Banking & Finance">
